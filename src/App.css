@@ -1,0 +1,111 @@
+body{
+  font-family: 'M PLUS 1', sans-serif;
+}
+.nav {
+  display: flex;
+  overflow: hidden;
+  background-color: #ECECEC;
+  height: 80px;
+  text-align: center;
+  justify-content: right;
+}
+ul{
+  display: inline-flex;
+  margin-right: 40px;
+  align-items: center;
+}
+li{
+  display: inline-flex;
+  margin-left: 70px;
+   font-size: 17px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a{
+  text-decoration: none;
+  color:#2F3777 ;
+}
+.content{
+  background-color: #2F3778 ;
+  height: 641px;
+  display: flex;
+}
+.heading{
+  color: white;
+  font-size: 35px;
+  padding-top: 120px;
+  font-weight: 700;
+}
+.cont{
+  color: white;
+  font-size: 15px;
+  font-weight: 500;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.content2{
+  width: 33%;
+  height: 580px;
+  margin-left: 80px;
+  margin-bottom: 50px; 
+}
+.logo{
+  margin-right: 410px;
+  padding-top: 4px;
+}
+.steps{
+  display: flex;
+  color: white;
+  margin-top: 20px;
+}
+.stepnum{
+  font-size: 14px;
+  padding-top: 12px;
+}
+.step_content{
+  font-size:25px;
+  color: rgb(74, 211, 211);
+  margin-left: 20px;
+  margin-top: 1px;
+  font-weight: 700;
+}
+button{
+  border: none;
+  box-shadow: 1px 2px 4px #6772c4;
+  background-color:#2F3778 ;
+  color: white;
+  padding:  14px 38px 10px 38px ;
+  border-radius: 38px;
+}
+.line{
+  border-left: 4px solid #0d7575;
+  height: 641px;
+  margin-left: 180px;
+  
+}
+#underline{
+  border-bottom: 3px solid #2F3778;
+  padding-bottom: 3px;
+}
+.pic1{
+  margin-top: 122px;
+  margin-left: 282px;
+  position: absolute;
+  opacity: 1;
+  z-index: 3;
+}
+.images{
+  display: flex;
+}
+.pic2{
+  position: relative;
+  margin-top: 158px;
+  margin-left: 170px;
+  opacity: 0.6;
+}
+.pic3{
+
+  margin-top: 158px;
+  margin-left: 72px;
+  opacity: 0.6;
+  
+}
