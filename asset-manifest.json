@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/INFIGON/static/css/main.acccc632.chunk.css",
+    "main.js": "/INFIGON/static/js/main.fa60aa74.chunk.js",
+    "main.js.map": "/INFIGON/static/js/main.fa60aa74.chunk.js.map",
+    "runtime-main.js": "/INFIGON/static/js/runtime-main.b07c8760.js",
+    "runtime-main.js.map": "/INFIGON/static/js/runtime-main.b07c8760.js.map",
+    "static/js/2.72db0389.chunk.js": "/INFIGON/static/js/2.72db0389.chunk.js",
+    "static/js/2.72db0389.chunk.js.map": "/INFIGON/static/js/2.72db0389.chunk.js.map",
+    "static/js/3.a03da43d.chunk.js": "/INFIGON/static/js/3.a03da43d.chunk.js",
+    "static/js/3.a03da43d.chunk.js.map": "/INFIGON/static/js/3.a03da43d.chunk.js.map",
+    "index.html": "/INFIGON/index.html",
+    "static/css/main.acccc632.chunk.css.map": "/INFIGON/static/css/main.acccc632.chunk.css.map",
+    "static/js/2.72db0389.chunk.js.LICENSE.txt": "/INFIGON/static/js/2.72db0389.chunk.js.LICENSE.txt",
+    "static/media/Dashboard template 01.e58b7848.png": "/INFIGON/static/media/Dashboard template 01.e58b7848.png",
+    "static/media/Dashboard template 02.001c1f6b.png": "/INFIGON/static/media/Dashboard template 02.001c1f6b.png",
+    "static/media/Dashboard template 03.91cd43d8.png": "/INFIGON/static/media/Dashboard template 03.91cd43d8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b07c8760.js",
+    "static/js/2.72db0389.chunk.js",
+    "static/css/main.acccc632.chunk.css",
+    "static/js/main.fa60aa74.chunk.js"
+  ]
+}
